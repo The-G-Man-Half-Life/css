@@ -1,0 +1,41 @@
+h1{
+    text-transform: uppercase;
+    color: black;
+    
+}
+#haha{
+    align-items: center;
+}
+#imagen_bandera{
+    width: 200 px;
+    height: 100 px;
+}
+body{
+    background-color: paleturquoise;
+
+}
+.himno{
+    text-align: left;
+
+    color:white
+}
+.tipo_1{
+    color: yellow;
+    text-align:left;
+}
+.tipo_2{
+    color: blue;
+    text-align: center;
+    
+}
+.tipo_3{
+    color: red;
+    text-align: right;
+}
+h4{
+    color: rgb(0, 0, 0);
+}
+iframe{
+    align-self: center;
+    
+}

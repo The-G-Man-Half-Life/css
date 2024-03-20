@@ -1,8 +1,34 @@
+body{
+    background-color: gray;
+}
 h1{
     text-align: center;
     color: blue;
 
 }
+
+/* Agregacion de estilos por nombramiento del elemento
 hr{
     color: blue;
+} */
+/* p{
+    color: green
+} */
+
+/* Agregacion de estilos por clase 
+.transformar_texto_en_mayusculas{
+    text-transform: uppercase;
+} */
+
+/* Agregacion de estilos por id 
+#parrafo_1{
+    color: yellow;
 }
+#parrafo_2{
+    color:blue;
+}
+#parrafo_3{
+    color: red;
+
+} */
+
